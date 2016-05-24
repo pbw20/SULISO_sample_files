@@ -1,0 +1,69 @@
+******************** UJISO: May 2016 ********************
+
+******************** Calculations for isotopologue 1 ********************
+Frequencies scaled by 1.000
+Structure 1 Methyl Cation                                                                 
+
+    Atom      Mass        X             Y             Z(Angstrom)
+  1   12C   12.000000     0.0000000     0.0000000     0.0000000
+  2    1H    1.007825     0.0000000     1.0603810     0.0000000
+  3    1H    1.007825     0.0000000    -0.5301910     0.9183170
+  4    1H    1.007825     0.0000000    -0.5301910    -0.9183170
+
+Frequencies of normal modes (cm-1)
+    113.0411    211.3297    299.6085    488.1557   1128.7665   1142.6678
+   1447.1914   1458.9378   1480.4228   3042.6484   3189.3085   3191.9987
+
+EX and ZP evaluated over 3N frequencies
+
+******************** Calculations for isotopologue 2 ********************
+Frequencies scaled by 1.000
+Structure    Deut                                                                         
+
+    Atom      Mass        X             Y             Z(Angstrom)
+  1   12C   12.000000     0.0000000     0.0000000     0.0000000
+  2    2H    2.014102     0.0000000     1.0603810     0.0000000
+  3    2H    2.014102     0.0000000    -0.5301910     0.9183170
+  4    2H    2.014102     0.0000000    -0.5301910    -0.9183170
+
+Frequencies of normal modes (cm-1)
+    100.5770    185.3978    212.4500    463.5179    833.1060    851.1020
+   1052.6690   1072.2237   1072.2940   2168.5079   2377.5907   2381.5630
+
+EX and ZP evaluated over 3N frequencies
+
+Product Rule for isotopologue  2
+   Isotopic mass term (IM) =         0.0443472301
+       Frequency term (VP) =         0.0443472301
+
+Partition Function Ratio for isotopologues 1 and 2 at     298.15 K
+
+Q(heavy)/Q(light) =        IM       *        EX       *        ZP
+  0.2850878498E+04  0.4434723010E-01  0.1488633644E+01  0.4318415032E+05
+
+******************** Calculations for isotopologue 3 ********************
+Frequencies scaled by 1.000
+Structure    14C                                                                          
+
+    Atom      Mass        X             Y             Z(Angstrom)
+  1   14C   14.003242     0.0000000     0.0000000     0.0000000
+  2    1H    1.007825     0.0000000     1.0603810     0.0000000
+  3    1H    1.007825     0.0000000    -0.5301910     0.9183170
+  4    1H    1.007825     0.0000000    -0.5301910    -0.9183170
+
+Frequencies of normal modes (cm-1)
+    106.6660    199.8500    299.5484    455.0891   1119.5056   1131.2400
+   1439.2525   1453.5897   1475.6042   3039.5310   3164.6710   3167.1144
+
+EX and ZP evaluated over 3N frequencies
+
+Product Rule for isotopologue  3
+   Isotopic mass term (IM) =         0.7932845165
+       Frequency term (VP) =         0.7932845165
+
+Partition Function Ratio for isotopologues 1 and 3 at     298.15 K
+
+Q(heavy)/Q(light) =        IM       *        EX       *        ZP
+  0.1230776298E+01  0.7932845165E+00  0.1100274036E+01  0.1410097951E+01
+
+****************************** The End ******************************

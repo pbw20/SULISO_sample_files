@@ -1,0 +1,44 @@
+******************** UJISO: May 2016 ********************
+
+******************** Calculations for isotopologue 1 ********************
+Frequencies scaled by 1.000
+Structure 1 Methyl Cation                                                                 
+
+    Atom      Mass        X             Y             Z(Angstrom)
+  1   12C   12.000000     0.0000000     0.0000000     0.0000000
+  2    2H    2.014102     0.0000000     1.0603810     0.0000000
+  3    2H    2.014102     0.0000000    -0.5301910     0.9183170
+  4    2H    2.014102     0.0000000    -0.5301910    -0.9183170
+
+Input frequencies:
+    100.5770    185.3978    212.4500    463.5179    833.1060    851.1020
+   1052.6690   1072.2237   1072.2940   2168.5079   2377.5907   2381.5630
+
+EX and ZP evaluated over 3N frequencies
+
+******************** Calculations for isotopologue 2 ********************
+Frequencies scaled by 1.000
+Structure    Deut                                                                         
+
+    Atom      Mass        X             Y             Z(Angstrom)
+  1   12C   12.000000     0.0000000     0.0000000     0.0000000
+  2    1H    1.007825     0.0000000     1.0603810     0.0000000
+  3    1H    1.007825     0.0000000    -0.5301910     0.9183170
+  4    1H    1.007825     0.0000000    -0.5301910    -0.9183170
+
+Input frequencies:
+    113.0411    211.3297    299.6085    488.1557   1128.7665   1142.6678
+   1447.1914   1458.9378   1480.4228   3042.6484   3189.3085   3191.9987
+
+EX and ZP evaluated over 3N frequencies
+
+Product Rule for isotopologue  2
+   Isotopic mass term (IM) =        22.5493226462
+       Frequency term (VP) =        22.5493156874
+
+Partition Function Ratio for isotopologues 1 and 2 at     298.15 K
+
+Q(heavy)/Q(light) =        IM       *        EX       *        ZP
+  0.3507691260E-03  0.2254932265E+02  0.6717571595E+00  0.2315664064E-04
+
+****************************** The End ******************************
